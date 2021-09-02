@@ -1,0 +1,6 @@
+instalar Docker. windows
+
+rodar comando para baixar container.
+https://hub.docker.com/r/ppodgorsek/robot-framework/tags?page=1&ordering=last_updated
+
+https://hub.docker.com/r/ppodgorsek/robot-framework

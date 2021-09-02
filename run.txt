@@ -1,0 +1,9 @@
+#run
+
+/Users/admin/Projects/bruno-robot
+
+
+docker run \
+    -v /Users/admin/Projects/bruno-robot:/opt/robotframework/reports:Z \
+    -v /Users/admin/Projects/bruno-robot:/opt/robotframework/tests:Z \
+    ppodgorsek/robot-framework:latest
